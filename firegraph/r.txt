@@ -1,0 +1,5 @@
+aiofiles
+networkx
+pyvis
+dotenv
+numpy
