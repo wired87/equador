@@ -1,4 +1,4 @@
-# nx_to_eq
+# EQUADOR 
 Creates a StandardModel (SM) KB. 
 
 Ill implement some features to make SM optional so you can test it with your own Equations.
